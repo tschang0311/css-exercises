@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color:indianred;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -8,11 +8,11 @@ p {
     font-size: 36px;
 }
 
-.element-3 {
+#element-3 {
     font-size: 24px;
 }
 
-.another-class {
+#another-class {
     background-color: aquamarine;
     font-size: 24px;
     font-weight: 700;
