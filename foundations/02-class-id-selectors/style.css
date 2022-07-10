@@ -1,0 +1,19 @@
+p {
+    background-color:indianred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.main {
+    color: blue;
+    font-size: 36px;
+}
+
+.element-3 {
+    font-size: 24px;
+}
+
+.another-class {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: 700;
+}
