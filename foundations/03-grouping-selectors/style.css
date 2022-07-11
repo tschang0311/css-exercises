@@ -1,0 +1,18 @@
+.both {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.both.first {
+    background-color: #000000;
+    color: #ffffff
+}
+/* Chaining selector selects an element with both as the 1st class and first as the 2nd class */
+/* This is also how to make comments in css code */
+
+.both.second {
+    background-color: yellow;
+}
+/* Again, chaining selector selects an element with both as the 1st class and second as the 2nd class */
+/* Another selector that could be used in simply the grouping selector, this would have reduced the number of 
+classes that each element needs. Grouping would be used to add the properties shared by both elements */
